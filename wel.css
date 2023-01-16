@@ -16,8 +16,8 @@
 
 h2{
     color: rgb(80, 196, 216);
-    font-size: 180px;
-    margin-left: 70rem;
+    font-size: 190px;
+    margin-left: 90rem;
 }
 
 
@@ -47,9 +47,9 @@ input {
 }
 
 p{
-    font-size: 65px;
+    font-size: 75px;
     color:rgb(159, 43, 226);
-    margin-left: 75rem;
+    margin-left: 105rem;
     margin-top: 40px;
 }
 
@@ -58,11 +58,11 @@ label{
 }
 
 h3{
-    font-size: 80px;
+    font-size: 105px;
     font-weight: bolder;
     color:  rgb(80, 196, 216);
     margin-top: 120px;
-    margin-left:75rem ;
+    margin-left:105rem ;
 }
 
 button{

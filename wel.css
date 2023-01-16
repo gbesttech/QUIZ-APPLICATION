@@ -16,8 +16,8 @@
 
 h2{
     color: rgb(80, 196, 216);
-    font-size: 190px;
-    margin-left: 90rem;
+    font-size: 50px;
+    margin-left: 25rem;
 }
 
 
@@ -26,31 +26,31 @@ span{
 }
   
 #name{
-    font-size: 100px;
-    font-weight: 400;
-    margin-top: 20rem;
+    font-size: 30px;
+    font-weight: 100;
+    margin-top: 5rem;
     color:rgb(80, 196, 216) ;
-    margin-left:65rem ;
+    margin-left:20rem ;
 }
 
 input {
-    height: 8vh;
+    height: 5.5vh;
     text-align:center;
     background-color: rgb(18, 18, 70);
     color:  rgb(119, 74, 14);
-    border-radius: 20px;
-    width: 36%;
-    font-size: 100px;
+    border-radius: 5px;
+    width: 25%;
+    font-size: 20px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     border-color: rgb(9, 8, 80);
     box-shadow: -100px;
 }
 
 p{
-    font-size: 75px;
+    font-size: 20px;
     color:rgb(159, 43, 226);
-    margin-left: 105rem;
-    margin-top: 40px;
+    margin-left: 30rem;
+    margin-top: 10px;
 }
 
 label{
@@ -58,20 +58,20 @@ label{
 }
 
 h3{
-    font-size: 105px;
+    font-size: 32px;
     font-weight: bolder;
     color:  rgb(80, 196, 216);
-    margin-top: 120px;
-    margin-left:105rem ;
+    margin-top: 40px;
+    margin-left:30rem ;
 }
 
 button{
     background-color: rgb(62, 13, 90);
-    padding: 25px;
-    border-radius: 25px;
+    padding: 5px;
+    border-radius: 5px;
     border-color: rgb(27, 14, 75);
-    box-shadow: 6px;
-    font-size: xx-large;
+    box-shadow: 4px;
+    font-size: x-large;
 }
 
 button:active{
@@ -80,7 +80,7 @@ button:active{
 }
 
 button a{
-    font-size: 90px;
+    font-size: 20px;
     color: blue;
 }
 

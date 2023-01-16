@@ -1,0 +1,116 @@
+@import url(https://fonts.goggleapis.com/css2family=josefin+sans:wght@300;400&display=swap);
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: "josefin sans", sans-serif;
+    font-weight: 300;
+}
+
+.main-div{
+    width: 100vw;
+    background-color: rgb(59, 4, 70);
+    display: grid;
+    place-items: center;
+    min-height: 130vh;
+    font-size: 25px;
+    font-style: oblique;
+}
+
+.inner-div{
+    background-color: #0f0969;
+    width: 800px;
+    padding: 3rem 8rem;
+    border-radius: 8px;
+    box-shadow: 0 0  10px;
+}
+
+h2{
+    text-align: center;
+    padding-bottom: 20px;
+    color: #ffffff;   
+    font-weight: 700;
+    font-size: 3rem;
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+    font-size: 2.5rem;
+
+}
+
+li{
+    margin-bottom: 1rem;
+    color: #ffffff;
+    
+}
+
+ul li{
+    margin: 1rem;
+    
+}
+
+ul li label{
+    cursor: pointer;
+}
+
+button{
+    height: 7vh;
+    width: 40%;
+    margin: auto;
+    display: block;
+    font-size: 25px;
+    margin-top: 3rem;
+    font-size: xx-large;
+    font: bold;
+    background-color: aqua;
+    border: 0px;
+    border-color: #437d94;
+    border-radius: 15px ;
+    color:  #ffffff;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: aqua;
+}
+
+button:focus{
+    outline: none;
+    background-color: aquamarine;
+}
+
+#showScore{
+    background-color: skyblue;
+    margin-top: 3rem;
+    padding: 3rem 4rem;
+    height: 40px;
+    box-shadow: 0 1rem 1rem -o.7rem rgb(47, 132, 165);
+}
+  
+#showScore h3{
+    font-size: 3rem;
+    text-align: center;
+    color: #530606;
+}
+
+#showScore .btn{
+    margin-top: 1rem;
+    background-color: blue;
+    color: red;
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+
+.ScoreArea{
+    display:none
+}
+
+a{
+    font-size: 60px;
+    columns: red;
+}
+

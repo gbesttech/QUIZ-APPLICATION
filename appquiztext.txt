@@ -1,0 +1,126 @@
+question: "In 1768, Captain James Cook set out to explore which ocean?",
+a: "Pacific Ocean",
+
+b: "Atlantic Ocean",
+
+c: "Indian Ocean",
+
+d: "Arctic Ocean",
+
+correct: "a",
+
+
+
+question: "What is actually electricity?",
+a: "A flow of water",
+
+b: "A flow of air",
+
+c: "A flow of electrons",
+
+d: "A flow of atoms",
+
+correct: "c",
+
+
+
+question: "Which of the following is not an international organisation?",
+a: "FIFA",
+
+b: "NATO",
+
+c: "ASEAN",
+
+d: "FBI",
+
+correct: "d",
+
+
+
+question: "Which of the following disorders is the fear of being alone?",
+a: "Agoraphobia",
+
+b: "Aerophobia",
+
+c: "Acrophobia",
+
+d: "Arachnophobia",
+
+correct: "a"
+
+
+
+question: "What is the speed of sound?",
+a: "120 km/h",
+
+b: "1,200 km/h",
+
+c: "400 km/h",
+
+d. "700 km/h",
+
+correct: "b",
+
+
+
+question: "Which is the easiest way to tell the age of many trees?",
+a: "To measure the width of the tree",
+
+b: "To count the rings on the trunk",
+
+c: "To count the number of leaves",
+
+d: "To measure the height of the tree",
+
+correct: "b",
+
+
+
+question: "What do we call a newly hatched butterfly?",
+a: "A moth",
+
+b: "A butter",
+
+c: "A caterpillar",
+
+d: "A chrysalis",
+
+correct: "c",
+
+
+
+question: "In total, how many novels were written by the Bronte sisters?",
+a: "4",
+
+b: "5",
+
+c: "6",
+
+d: "7",
+
+correct: "d",
+
+
+
+question: "What was the first country to use tanks in combat during World War I?",
+a: "France",
+
+b: "Japan",
+
+c: "Britain",
+
+d: "Germany",
+
+correct: "c",
+
+
+
+question: "Which two months are named after Emperors of the Roman Empire?",
+a: "January and February",
+b: "March and April",
+
+c: "May and June",
+
+d: "July and August",
+
+correct: "d",
